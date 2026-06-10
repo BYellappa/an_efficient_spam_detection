@@ -1,0 +1,1 @@
+web: gunicorn an_efficient_spam_detection.wsgi
